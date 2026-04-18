@@ -276,8 +276,3 @@ where
 
 > Rust isn’t about writing code.
 > It’s about designing systems that cannot break.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [design-patterns](/tags/design-patterns/), [systems](/tags/systems/), [concurrency](/tags/concurrency/), [ownership](/tags/ownership/), [performance](/tags/performance/)
-<!-- gh-pages-taxonomy-links:end -->

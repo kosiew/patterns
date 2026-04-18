@@ -211,8 +211,3 @@ fn process<I: IntoIterator<Item = i32>>(input: I) -> impl Iterator<Item = i32>
 * Optimize for data movement, not just CPU
 
 > Great systems are not just fast — they are predictable, composable, and resilient.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [system-design](/tags/system-design/), [streaming](/tags/streaming/), [data-processing](/tags/data-processing/), [performance](/tags/performance/)
-<!-- gh-pages-taxonomy-links:end -->

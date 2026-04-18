@@ -278,8 +278,3 @@ All these patterns orbit a few deep principles:
 He gives a small nod 😄
 
 > "Master these, and you're not just writing Rust… you're designing systems."
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [system-design](/tags/system-design/), [concurrency](/tags/concurrency/), [patterns](/tags/patterns/), [performance](/tags/performance/)
-<!-- gh-pages-taxonomy-links:end -->

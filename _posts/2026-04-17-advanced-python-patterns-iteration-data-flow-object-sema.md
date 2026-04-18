@@ -273,8 +273,3 @@ for i, item in enumerate(items):
 * Use abstractions that match **intent, not habit**
 
 > Great Python
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [python](/categories/python/)
-Tags: [python](/tags/python/), [iterators](/tags/iterators/), [functional](/tags/functional/), [data-structures](/tags/data-structures/), [performance](/tags/performance/)
-<!-- gh-pages-taxonomy-links:end -->

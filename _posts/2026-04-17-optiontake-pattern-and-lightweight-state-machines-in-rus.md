@@ -208,8 +208,3 @@ This gives:
 > Use `Option::take()` when you need a clean, explicit, and low-friction way to model ownership transitions.
 
 Sometimes the simplest state machine is the best one.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [ownership](/tags/ownership/), [state-machines](/tags/state-machines/), [patterns](/tags/patterns/)
-<!-- gh-pages-taxonomy-links:end -->

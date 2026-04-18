@@ -286,8 +286,3 @@ Smooth traffic with fixed processing rate.
 * Use concurrency deliberately
 
 > Great Go systems are
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [go](/categories/go/)
-Tags: [go](/tags/go/), [streaming](/tags/streaming/), [concurrency](/tags/concurrency/), [performance](/tags/performance/), [system-design](/tags/system-design/)
-<!-- gh-pages-taxonomy-links:end -->

@@ -237,8 +237,3 @@ let values: Vec<i32> = lines
 * `FromIterator` lets you define your own semantics
 
 > Rust lets you turn loops into pipelines — without l
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [iterators](/tags/iterators/), [patterns](/tags/patterns/), [error-handling](/tags/error-handling/)
-<!-- gh-pages-taxonomy-links:end -->

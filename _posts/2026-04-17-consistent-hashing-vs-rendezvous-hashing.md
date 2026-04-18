@@ -191,8 +191,3 @@ Treat sharding as a **pure function**:
 Rust naturally encourages this model through ownership and immutability.
 
 > Shard selection becomes computation — not coordination.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [distributed-systems](/tags/distributed-systems/), [hashing](/tags/hashing/), [load-balancing](/tags/load-balancing/), [system-design](/tags/system-design/)
-<!-- gh-pages-taxonomy-links:end -->

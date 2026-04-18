@@ -224,8 +224,3 @@ Handler → Service → Repository
 * Optimize for clarity and predictability
 
 > Great Go systems are not just concurrent — they are controlled, resilient, and understandable.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [go](/categories/go/)
-Tags: [go](/tags/go/), [concurrency](/tags/concurrency/), [system-design](/tags/system-design/), [resilience](/tags/resilience/), [architecture](/tags/architecture/)
-<!-- gh-pages-taxonomy-links:end -->

@@ -210,8 +210,3 @@ fn normalize(input: &str) -> Cow<str>
 * Embrace deterministic state transitions
 
 > Great Rust systems aren’t just safe — they’re *predictable by design*.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [concurrency](/tags/concurrency/), [streaming](/tags/streaming/), [system-design](/tags/system-design/), [patterns](/tags/patterns/)
-<!-- gh-pages-taxonomy-links:end -->

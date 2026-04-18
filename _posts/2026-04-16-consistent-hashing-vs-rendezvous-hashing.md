@@ -126,7 +126,7 @@ fn main() {
 | ------------ | ---------------------- | ------------------ |
 | Lookup cost  | ✅ O(log N)             | ❌ O(N)             |
 | Simplicity   | ❌ complex (ring)       | ✅ very simple      |
-| Load balance | ⚠️ needs tuning        | ✅ naturally good   |
+| Load balance | ⚠️ needs tuning         | ✅ naturally good   |
 | Node changes | ✅ minimal movement     | ✅ minimal movement |
 | Memory       | ❌ ring storage         | ✅ none             |
 | Replication  | awkward                | ✅ trivial (top-K)  |
@@ -235,8 +235,3 @@ That’s huge.
 
 👉 One requires synchronization
 👉 The other is embarrassingly parallel
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [distributed-systems](/tags/distributed-systems/), [hashing](/tags/hashing/), [load-balancing](/tags/load-balancing/), [system-design](/tags/system-design/)
-<!-- gh-pages-taxonomy-links:end -->

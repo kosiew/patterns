@@ -512,8 +512,3 @@ Several themes show up again and again across Go:
 * make errors rich enough for both debugging and recovery
 
 Go’s design is not about clever abstraction. It is about clear seams, explicit behavior, and systems that remain understandable under load.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [go](/categories/go/)
-Tags: [go](/tags/go/), [interfaces](/tags/interfaces/), [composition](/tags/composition/), [error-handling](/tags/error-handling/), [concurrency](/tags/concurrency/)
-<!-- gh-pages-taxonomy-links:end -->

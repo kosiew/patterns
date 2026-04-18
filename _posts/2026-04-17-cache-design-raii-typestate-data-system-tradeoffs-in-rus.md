@@ -202,8 +202,3 @@ fn sum_even(nums: &[i32]) -> i32 {
 * Optimize for memory movement and locality
 
 > Great systems are not just fast — they are predictable and composable.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [caching](/tags/caching/), [system-design](/tags/system-design/), [streaming](/tags/streaming/), [performance](/tags/performance/)
-<!-- gh-pages-taxonomy-links:end -->

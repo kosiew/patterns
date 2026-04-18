@@ -345,8 +345,3 @@ class UpperCase:
 * Understand Python’s **object model deeply**
 
 > Great Python code reads like a story — and scales
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [python](/categories/python/)
-Tags: [python](/tags/python/), [design-patterns](/tags/design-patterns/), [object-model](/tags/object-model/), [concurrency](/tags/concurrency/), [memory](/tags/memory/), [advanced](/tags/advanced/)
-<!-- gh-pages-taxonomy-links:end -->

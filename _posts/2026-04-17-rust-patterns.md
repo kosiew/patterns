@@ -257,8 +257,3 @@ impl Drop for FileHandle<Open> {
 * Simple file usage (`std::fs::File` already handles it)
 * Short-lived resources
 * Internal code with obvious flow
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [rust](/categories/rust/)
-Tags: [rust](/tags/rust/), [systems-programming](/tags/systems-programming/), [design-patterns](/tags/design-patterns/), [ownership](/tags/ownership/), [safety](/tags/safety/)
-<!-- gh-pages-taxonomy-links:end -->
