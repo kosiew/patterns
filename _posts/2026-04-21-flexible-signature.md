@@ -1,13 +1,9 @@
 ---
-categories: python
----
-
-````markdown
----
 layout: post
 title: "Flexible Signatures vs Keyword-Only Parameters in Python"
 date: 2026-04-21 00:00:00 +0000
 tags: [python, api-design, software-engineering, best-practices]
+categories: python
 ---
 
 ## ⚙️ Technique A — Flexible Signatures (`*args`, `**kwargs`)

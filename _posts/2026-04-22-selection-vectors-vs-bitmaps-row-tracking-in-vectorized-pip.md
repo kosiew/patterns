@@ -4,7 +4,7 @@ layout: post
 title: "Selection Vectors vs Bitmaps (Row Tracking in Vectorized Pipelines)"
 date: 2026-04-22 00:00:00 +0000
 tags: [databases, query-engines, vectorization, performance, systems]
-categories: rust
+categories: database 
 ---
 
 ## Selection Vectors vs Bitmaps (Row Tracking in Vectorized Pipelines)
